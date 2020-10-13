@@ -1,0 +1,10 @@
+{
+    "name": "ra/mini-framework-mvc",
+    "authors": [
+        {
+            "name": "Alvaro Lourenco Alves",
+            "email": "alvaro.lourenco46@gmail.com"
+        }
+    ],
+    "require": {}
+}
